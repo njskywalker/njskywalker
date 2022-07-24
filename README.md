@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @njskywalker (neb)
+- 👀 I’m interested in knowledge, language, and natural language processing.
+- 🌱 I’m currently learning how to produce and productionise NLP models.
+- 💞️ I’m looking to collaborate on anything NLP, but semantic extraction, search etc. in particular! (Relations please)
+- 📫 How to reach me: just message me, e.g. on LinkedIn: linkedin.com/in/neb-jovanovic
